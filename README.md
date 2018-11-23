@@ -1,6 +1,6 @@
 # BATapp
 
-##Description:
+## Description:
 
 - BATapp is a platform  where  technology businesses -  whether startups or SMEs - can get direct access to their partners or investors who  match directly with their interests and needs.
 
