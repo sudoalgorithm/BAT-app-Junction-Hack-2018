@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDarkTwo"
+    tools:context=".MainActivityFive">
+
+    <TextView
+        android:id="@+id/tv_heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="I'am a..."
+        android:textSize="35sp"
+        android:textColor="@color/colorPrimary"
+        android:layout_above="@id/view_hr_line"
+        android:layout_centerHorizontal="true"
+        />
+
+    <View
+        android:id="@+id/view_hr_line"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="#8CC3FD"
+        android:layout_marginLeft="120dp"
+        android:layout_marginRight="120dp"
+        android:layout_above="@id/btn_startup"
+        />
+
+    <Button
+        android:id="@+id/btn_startup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_design"
+        android:layout_margin="30dp"
+        android:text="startup"
+        android:layout_above="@id/btn_corp"
+        />
+
+    <Button
+        android:id="@+id/btn_corp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_design"
+        android:layout_margin="30dp"
+        android:layout_centerInParent="true"
+        android:text="corporation"
+        />
+
+    <Button
+        android:id="@+id/btn_investor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_design"
+        android:layout_margin="30dp"
+        android:text="investor"
+        android:layout_below="@id/btn_corp"
+        />
+
+</RelativeLayout>

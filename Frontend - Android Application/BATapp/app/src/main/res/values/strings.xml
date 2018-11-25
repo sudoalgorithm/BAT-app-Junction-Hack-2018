@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">BATapp</string>
+    <string name="country_prompt">Choose a country</string>
+    <string name="city_prompt">Choose a city</string>
+    <string-array name="country_arrays">
+        <item>United Arab Emirates</item>
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Finland</item>
+        <item>Germany</item>
+        <item>United Kingdom</item>
+        <item>Portugal</item>
+        <item>Spain</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+    <string-array name="city_arrays">
+        <item></item>
+        <item>Helsinki</item>
+        <item>Tampere</item>
+        <item>Turku</item>
+        <item>Oulu</item>
+        <item>Espoo</item>
+        <item>Jyväskylä</item>
+        <item>Vantaa</item>
+        <item>Vaasa</item>
+        <item>Rovaniemi</item>
+        <item>Lahti</item>
+        <item>Kuopio</item>
+        <item>Pori</item>
+        <item>Joensuu</item>
+    </string-array>
+</resources>
