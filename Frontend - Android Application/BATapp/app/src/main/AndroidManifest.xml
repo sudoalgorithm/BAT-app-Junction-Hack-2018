@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".Activities.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -17,17 +17,24 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivityTwo"
+            android:name=".Activities.MainActivityTwo"
             android:theme="@style/AppTheme2" />
         <activity
-            android:name=".MainActivityThree"
+            android:name=".Activities.MainActivityThree"
             android:theme="@style/AppTheme2" />
         <activity
-            android:name=".MainActivityFour"
+            android:name=".Activities.MainActivityFour"
             android:theme="@style/AppTheme2" />
-        <activity android:name=".MainActivityFive"
-            android:theme="@style/AppTheme2"
-            ></activity>
+        <activity
+            android:name=".Activities.MainActivityFive"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name=".Activities.MainActivitySix"
+            android:label="@string/title_activity_main_six"
+            android:theme="@style/AppTheme3" />
+        <activity android:name=".Fragments.StartupToInvestorFragment" />
+        <activity android:name=".Fragments.StartupToCorporatesFragments" />
+        <activity android:name=".Fragments.StartupToStartupFragment"></activity>
     </application>
 
 </manifest>

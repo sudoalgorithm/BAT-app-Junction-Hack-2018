@@ -5,4 +5,6 @@
     <color name="colorAccent">#D81B60</color>
     <color name="colorPrimaryDarkTwo">#5BA1FB</color>
     <color name="colorAccentTwo">#FFFFFF</color>
+    <color name="colorAccentThree">#5BA1FB</color>
+    <color name="colorPrimaryTwo">#5BA1FB</color>
 </resources>

@@ -1,4 +1,4 @@
-package malhotra2.kunal.batapp;
+package malhotra2.kunal.batapp.Activities;
 
 import android.content.Intent;
 import android.os.Handler;
@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.widget.ImageView;
 
 import com.squareup.picasso.Picasso;
+
+import malhotra2.kunal.batapp.R;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -34,4 +34,8 @@
         <item>Pori</item>
         <item>Joensuu</item>
     </string-array>
+    <string name="title_activity_main_six">MainActivitySix</string>
+    <string name="title_home">Startup To Investor</string>
+    <string name="title_dashboard">Startup To Corporate</string>
+    <string name="title_notifications">Startup To Startup</string>
 </resources>

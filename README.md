@@ -13,6 +13,9 @@ We're developing three machine learning models:
 - Predicting the probability of successes of the partnerships.
 - Tracking the process
 
+## Machine Learning Model Preformance
+![alt text](screenshot.png)
+
 ## Team
 
 - Kunal Malhotra

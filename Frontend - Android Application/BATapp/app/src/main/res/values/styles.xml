@@ -14,4 +14,10 @@
         <item name="colorAccent">@color/colorAccentTwo</item>
     </style>
 
+    <style name="AppTheme3" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimaryDarkTwo</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkTwo</item>
+        <item name="colorAccent">@color/colorAccentThree</item>
+    </style>
+
 </resources>
